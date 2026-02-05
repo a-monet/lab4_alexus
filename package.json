@@ -1,0 +1,24 @@
+{
+  "name": "lab4_alexus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-monet/lab4_alexus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/a-monet/lab4_alexus/issues"
+  },
+  "homepage": "https://github.com/a-monet/lab4_alexus#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
